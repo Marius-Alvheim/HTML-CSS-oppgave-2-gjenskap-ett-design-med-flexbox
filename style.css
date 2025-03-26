@@ -53,9 +53,10 @@ h2 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
   font-family: "Big Shoulders", sans-serif;
   font-weight: 700;
+  color: #f4f3f3;
 }
 
 #sedan-btn,
